@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box1{
+    background-color: brown;
+    border: 40px rgb(147, 147, 255) solid;
+    padding: 50px;
+    margin: 150px;
+    width: 300px;
+    height: 100px;
+    display: block;
+    
+}
+
+h1{
+    background-color: coral;
+    margin: 100px;
+    padding: 30px;
+    border: 40px solid rgb(255, 108, 108);
+    display: inline;
+    height: 1000px;
+    width: 1000px;
+}
